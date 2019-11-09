@@ -14,7 +14,6 @@ This website is served automatically from the default `gh-pages` branch at https
 
 1. In `README.md` update the URL above to point to your GitHub pages website. E.g., http://northeastern-ds-4200-f19.github.io/project-team-#-topic where `#` and `topic` are customized.
 
-
 1. `CD` or open a terminal / command prompt window into the cloned folder.
 
 1. Start a simple python webserver. E.g., `python -m http.server`, `python3 -m http.server`, or `py -m http.server`. If you are using python 2 you will need to use `python -m SimpleHTTPServer` instead, but please switch to python 3.
